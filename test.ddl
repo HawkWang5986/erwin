@@ -1985,3 +1985,8 @@ END
 go
 
 
+
+
+ALTER TABLE [MOVIE]
+ADD [Movie_UDT]  date  NULL
+go
